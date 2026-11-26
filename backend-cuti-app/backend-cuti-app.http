@@ -1,0 +1,6 @@
+@backend_cuti_app_HostAddress = http://localhost:5177
+
+GET {{backend_cuti_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
